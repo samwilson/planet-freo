@@ -1,0 +1,11 @@
+---
+url: http://freo.org.au/planet/
+name: Planet Freo
+items: 50
+shuffle: 0
+refresh: 600
+cache: 10
+nohtml: 0
+postmaxlength: 0
+cachedir: ./cache
+locale: en
