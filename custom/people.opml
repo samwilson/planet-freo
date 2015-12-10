@@ -2,10 +2,12 @@
 <opml version="1.1">
 <head>
 <title>Planet Freo</title>
-<dateCreated>2015-01-15T20:13:19-08:00</dateCreated>
-<dateModified>2015-01-15T20:13:19-08:00</dateModified>
+<dateCreated>2014-01-15T20:13:19-08:00</dateCreated>
+<dateModified>2015-12-10T12:00:00+08:00</dateModified>
 </head>
 <body>
+<outline text="Moore and Moore Cafe" htmlUrl="http://mooreandmoorecafe.com" xmlUrl="http://mooreandmoorecafe.com/blog/feed" />
+<outline text="Fremantle City Council" htmlUrl="http://fremantle.wa.gov.au/news-rss" xmlUrl="http://fremantle.wa.gov.au/news-rss" isDown=""/>
 <outline text="Freo Tribe" htmlUrl="http://fremantlesociety.org.au/blog" xmlUrl="http://fremantlesociety.org.au/blog/feed/atom/" isDown=""/>
 <outline text="City of Fremantle Mayor Brad Pettitt's Blog" htmlUrl="http://cofremantle.wordpress.com" xmlUrl="http://cofremantle.wordpress.com/feed/atom/" isDown=""/>
 <outline text="Dismantle" htmlUrl="http://dismantle.org.au" xmlUrl="http://dismantle.org.au/feed/atom/" isDown=""/>
@@ -18,7 +20,7 @@
 <outline text="Cyclefreo" htmlUrl="http://www.cyclefreo.com" xmlUrl="http://feeds.feedburner.com/CycleFreo" isDown=""/>
 <outline text="Hon Lynn MacLaren MLC" htmlUrl="http://www.lynnmaclaren.org.au" xmlUrl="http://www.lynnmaclaren.org.au/rss.xml" isDown=""/>
 <outline text="Love God" htmlUrl="http://www.freochurch.com" xmlUrl="http://www.freochurch.com/index.php?format=feed&amp;type=atom" isDown=""/>
-<outline text="Anglican Parish of Fremantle" htmlUrl="http://anglicanparishoffremantle.com" xmlUrl="http://anglicanparishoffremantle.com/?feed=rss2" isDown=""/>
+<outline text="Anglican Parish of Fremantle" htmlUrl="http://fremantleanglican.com/" xmlUrl="http://fremantleanglican.com/feed/" isDown=""/>
 <outline text="Fremantle Press" htmlUrl="http://fremantlepress.blogspot.com/" xmlUrl="http://fremantlepress.blogspot.com/feeds/posts/default" isDown=""/>
 <outline text="The Painted Fish" htmlUrl="http://thepaintedfish.com.au" xmlUrl="http://feeds2.feedburner.com/ThePaintedFish" isDown=""/>
 <outline text="Jon Strachan" htmlUrl="http://jonstrachan.wordpress.com" xmlUrl="http://jonstrachan.wordpress.com/feed/atom/" isDown=""/>
