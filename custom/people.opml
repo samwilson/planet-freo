@@ -50,7 +50,7 @@
 <outline text="South Fremantle Football Club Latest News" htmlUrl="http://southfremantlefc.com.au/news/" xmlUrl="http://southfremantlefc.com.au/news/rss" isDown="1"/>
 <outline text="Fremantle News Digest" htmlUrl="http://freonews.wordpress.com" xmlUrl="http://freonews.wordpress.com/feed/atom/" isDown=""/>
 <outline text="Fremantle Foundation" htmlUrl="http://fremantlefoundation.com" xmlUrl="http://fremantlefoundation.com/feed/atom/" isDown=""/>
-<outline text="A Beautiful City" htmlUrl="http://www.abeautifulcity.com/blog/" xmlUrl="http://www.abeautifulcity.com/blog/atom.xml" isDown=""/>
+<outline text="A Beautiful City" htmlUrl="http://www.abeautifulcity.com/" xmlUrl="http://www.abeautifulcity.com/blog-1?format=RSS" isDown=""/> 
 <outline text="The Wray Avenue Blog" htmlUrl="http://wrayavenue.wordpress.com" xmlUrl="http://wrayavenue.wordpress.com/feed/atom/" isDown=""/>
 <outline text="Freo Cycle Chic" htmlUrl="http://www.freocyclechic.org/" xmlUrl="http://www.freocyclechic.org/feeds/posts/default" isDown=""/>
 <outline text="Freo Ramble" htmlUrl="http://freoramble.com" xmlUrl="http://freoramble.com/tag/fremantle/feed/atom/" isDown=""/>
