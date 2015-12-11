@@ -11,7 +11,7 @@
 <outline text="Freo Tribe" htmlUrl="http://fremantlesociety.org.au/blog" xmlUrl="http://fremantlesociety.org.au/blog/feed/atom/" isDown=""/>
 <outline text="City of Fremantle Mayor Brad Pettitt's Blog" htmlUrl="http://cofremantle.wordpress.com" xmlUrl="http://cofremantle.wordpress.com/feed/atom/" isDown=""/>
 <outline text="Dismantle" htmlUrl="http://dismantle.org.au" xmlUrl="http://dismantle.org.au/feed/atom/" isDown=""/>
-<outline text="Fremantle Environmental Resource Network" htmlUrl="http://fern.org.au" xmlUrl="http://fern.org.au/rss.xml" isDown="1"/>
+<!-- <outline text="Fremantle Environmental Resource Network" htmlUrl="http://fern.org.au" xmlUrl="http://fern.org.au/rss.xml" isDown="1" /> -->
 <outline text="Freo's View" htmlUrl="http://freoview.wordpress.com" xmlUrl="http://freoview.wordpress.com/feed/atom/" isDown=""/>
 <outline text="Love Freo" htmlUrl="http://www.lovefreo.com" xmlUrl="http://www.lovefreo.com/feed/atom/" isDown=""/>
 <outline text="Adele Carles" htmlUrl="http://adelecarles.wordpress.com" xmlUrl="http://adelecarles.wordpress.com/feed/atom/" isDown=""/>
@@ -65,8 +65,8 @@
 <outline text="Fremantle Carnevale" htmlUrl="http://www.fremantlecarnevale.com.au/" xmlUrl="http://www.fremantlecarnevale.com.au/rss.xml" isDown="1"/>
 <outline text="Josh's House" htmlUrl="http://joshshouse.com.au/" xmlUrl="http://joshshouse.com.au/feed/" isDown=""/>
 <outline text="The Fremantle Times" htmlUrl="http://freotimes.wordpress.com/" xmlUrl="http://freotimes.wordpress.com/feed" isDown=""/>
-<outline text="Freo Green Guide" htmlUrl="http://www.freogreenguide.com/" xmlUrl="http://www.freogreenguide.com/feed/" isDown=""/>
-<outline text="THE FREMANTLE ROUND HOUSE" htmlUrl="http://fremantleroundhouse.com/" xmlUrl="http://fremantleroundhouse.com/feed/" isDown=""/>
+<!-- <outline text="Freo Green Guide" htmlUrl="http://www.freogreenguide.com/" xmlUrl="http://www.freogreenguide.com/feed/" isDown=""/> -->
+<!-- <outline text="THE FREMANTLE ROUND HOUSE" htmlUrl="http://fremantleroundhouse.com/" xmlUrl="http://fremantleroundhouse.com/feed/" isDown=""/> -->
 <outline text="Fremantle Reform" htmlUrl="http://fremantlereform.com/" xmlUrl="http://fremantlereform.com/feed" isDown=""/>
 </body>
 </opml>
